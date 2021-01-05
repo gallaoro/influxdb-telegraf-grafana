@@ -8,7 +8,7 @@ This repository is based on the work of [Bernardo Ronquillo Japón](https://gith
 - Install docker
 - Install docker-compose
 - Clone this repository and open project folder
-- Setup Telegraf config file `cp example.telegraf.conf telegraf.conf`
+- Setup Telegraf config file `cp telegraf/example.telegraf.conf telegraf/telegraf.conf`
 - Run `docker-compose up -d`
 
 ## Setup Grafana
