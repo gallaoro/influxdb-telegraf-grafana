@@ -15,3 +15,7 @@ This repository is based on the work of [Bernardo Ronquillo Japón](https://gith
 - Visit Grafana interface at http://<rpi_local_addr>:3000 .
 - Connect influxdb as source
 - Import the base dashboard from /grafana/RPi_base_dashboard-1609948698396.json
+
+The Grafana dashboard will look like this:
+
+![Grafana dashboard](./images/grafana-dashboard.png)
